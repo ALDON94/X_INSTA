@@ -1,24 +1,23 @@
 
 # INSTALLATION NOTES FOR DUMMIES
 
-
-## 1.Download Python3 & Install  
-
-**The installation Process Is Easy Next >> Next >> Next**
-
 ---
 
-## 2.Install Requirements
+## 1.Install Requirements
+
+**Download Python3 & Install**
+
+*The installation Process Is Easy Next >> Next >> Next*
 
 *open powershell or cmd in this case no difference*
 
-**Navigate To The Script Folder & Paste This In**  
+**in cmd or Powershell Navigate To The Script Folder & Paste This In**  
 
 - pip3 install -r requirements.txt
 
 ---
 
-## 3.Download Chrome & Chrome Driver
+## 2.Download Chrome & Chrome Driver
 
 - Download and Install Googole Chrome & Download The Driver
 
@@ -30,13 +29,13 @@
 ---
 
 
-## 4.Write Some Passwords to the Passwords.txt File 
+## 3.Write Some Passwords to the Passwords.txt File 
 
 - Append The Passwords You Want To Try.
  
 --- 
 
-## 5.Write Proxies TO Proxies.txt File(Optional)
+## 4.Write Proxies TO Proxies.txt File(Optional)
 
 - Write The Proxies To The File...Only One AT Time
 
