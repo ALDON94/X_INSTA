@@ -12,7 +12,7 @@
 
 **open powershell or cmd in this case no difference**
 
-**Navigate To The Script Folder**  
+**Navigate To The Script Folder & Paste This In**  
 
 > pip3 install -r requirements.txt
 
@@ -22,7 +22,7 @@
 
 **Download and Install Googole Chrome & Download The Driver**
 
-**Note The Driver And The Browser Need To Be The Same Version**
+*Note : The Driver And The Browser Need To Be The Same Version*
 
 **copy the driver to the Script Folder And Add IT To Path**
 
