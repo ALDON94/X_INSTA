@@ -7,11 +7,11 @@
 
 **Download Python3 & Install**
 
-*The installation Process Is Easy Next >> Next >> Next*
+*The Installation Process Is Easy Next >> Next >> Next*
 
-*open powershell or cmd in this case no difference*
+*Open Powershell Or Cmd In This Case No Difference*
 
-**in cmd or Powershell Navigate To The Script Folder & Paste This In**  
+**In Cmd Or Powershell Navigate To The Script Folder & Paste This In**  
 
 - pip3 install -r requirements.txt
 
@@ -19,25 +19,25 @@
 
 ## 2.Download Chrome & Chrome Driver
 
-- Download and Install Googole Chrome & Download The Driver
+- Download And Install Googole Chrome & Download The Driver
 
 *Note : The Driver And The Browser Need To Be The Same Version*
 
-- copy the driver to the Script Folder And Add IT To Path
+- Copy The Driver To The Script Folder And Add IT To Path
 
 
 ---
 
 
-## 3.Write Some Passwords to the Passwords.txt File 
+## 3.Write Some Passwords To The File 
 
-- Append The Passwords You Want To Try.
+- Append The Passwords You Want To Try To The **Passwords.txt** 
  
 --- 
 
-## 4.Write Proxies TO Proxies.txt File(Optional)
+## 4.Write Proxies TO THE File(Optional)
 
-- Write The Proxies To The File...Only One AT Time
+- Write The Proxies To The **Proxies.txt** File
 
 ---
 
