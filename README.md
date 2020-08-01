@@ -2,9 +2,9 @@
 # INSTALLATION NOTES FOR DUMMIES
 
 
-**1.Download Python3 From Microsoft Store OR From The Official Webstie**  
+## 1.Download Python3 From Microsoft Store OR From The Official Webstie  
 
-## The installation Process Is Easy Next >> Next >> Next
+**The installation Process Is Easy Next >> Next >> Next**
 
 ---
 
