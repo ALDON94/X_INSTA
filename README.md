@@ -50,5 +50,9 @@ python3 X_insta.py
 
 
 
+## Example
+
+[Video](https://streamable.com/3cboed)
+
 
 
