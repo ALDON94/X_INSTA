@@ -20,7 +20,7 @@ import re
 global driver
 
 
-chromedriver_path = 'bin\chromedriver.exe' 
+chromedriver_path = 'chromedriver.exe' # change this to your driver path  
 driver = webdriver.Chrome(executable_path=chromedriver_path)
 sleep(9)
 
