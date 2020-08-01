@@ -35,7 +35,7 @@
  
 --- 
 
-## 4.Write Proxies TO THE File(Optional)
+## 4.Write Proxies To The File(Optional)
 
 - Write The Proxies To The **Proxies.txt** File
 
