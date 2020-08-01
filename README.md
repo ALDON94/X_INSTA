@@ -2,7 +2,7 @@
 # INSTALLATION NOTES FOR DUMMIES
 
 
-## 1.Download Python3 From Microsoft Store OR From The Official Webstie  
+## 1.Download Python3 & Install  
 
 **The installation Process Is Easy Next >> Next >> Next**
 
@@ -45,7 +45,7 @@
 # USAGE
 
 
-> - python3 X_insta.py
+- python3 X_insta.py
 
 
 ---
