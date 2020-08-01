@@ -15,7 +15,6 @@
 **Navigate To The Script Folder**  
 
 'pip3 install -r requirements.txt'
-
 ---
 
 ## 3.Download Chrome & Chrome Driver
