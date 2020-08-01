@@ -44,7 +44,7 @@
 # USAGE
 
 
-- python3 X_insta.py
+**WATCH THE VIDEO DOWN BELOW**
 
 
 ---
