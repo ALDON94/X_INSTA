@@ -31,7 +31,7 @@
 
 ## 3.Write Some Passwords To The File 
 
-- Append The Passwords You Want To try To The **Passwords.txt** File 
+- Append The Passwords You Want To Try...To The **Passwords.txt** File 
  
 --- 
 
