@@ -268,7 +268,7 @@ try:
 except Exception as e:
 	print( '\n\n\n['+ GREEN + '*' + WHITE + ']' + YELLOW +  ' Using Default Delay Value: '+ BLUE +  '5\n\n\n' + WHITE + '\n\n\n')
 
-	delay = 1
+	delay = 5
 
 
 xinstagram = xInsta.Login()
