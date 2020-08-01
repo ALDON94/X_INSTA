@@ -14,7 +14,7 @@
 
 **Navigate To The Script Folder & Paste This In**  
 
-> pip3 install -r requirements.txt
+- pip3 install -r requirements.txt
 
 ---
 
