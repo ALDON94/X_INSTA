@@ -63,7 +63,6 @@ class x_insta(object):
 		self.is_Proxy = ''
 		self.Proxy_Used = []
 		self.passwordlist = passwordlist
-		#self.Pass_file_exist()
 		self.user_exits()
 
 
