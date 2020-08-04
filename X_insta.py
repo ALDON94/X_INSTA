@@ -101,8 +101,8 @@ class x_insta(object):
 
 		try:
 
-			ip = (GREEN  + '\n\n\n [+]' + WHITE + 'Checking New Public IP Address...\n' + WHITE)
-			location = (GREEN  + '[+]' + WHITE + ' Checking New IP Location...\n' + WHITE)
+			ip = (GREEN  + '\n\n\n[+]' + WHITE + ' Checking New Public IP Address...\n' + WHITE)
+			location = (GREEN  + '\n\n\n[+]' + WHITE + ' Checking New IP Location...\n' + WHITE)
 
 
 
